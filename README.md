@@ -1,6 +1,6 @@
 # soduku
 Soduku solver in various languages
 
-*Current language:*
+**Current languages:**
 - C++
 
